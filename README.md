@@ -8,7 +8,7 @@ BayrdY's Very Comprehensive Cleaning File For Windows
   / /_/ / /_/ / /_/ / /  / /_/ /   / /  
  /_____/\__,_/\__, /_/   \__,_/   /_/   
              /____/   
-.      www.bayrdyofficial.com.tr
+       www.bayrdyofficial.com.tr
 ------------------------------------------    
 
 Warning:
